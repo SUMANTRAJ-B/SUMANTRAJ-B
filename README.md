@@ -174,8 +174,6 @@ Co-developed with a 4-person team as an academic project.
 
 ## Connect With Me
 
-## Connect With Me
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sumantraj-b-452b82312/">
