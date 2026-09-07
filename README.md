@@ -176,8 +176,8 @@ I'm intentionally keeping this space for the next project rather than padding it
 ## GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SUMANTRAJ-B&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMANTRAJ-B&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="./profile/stats.svg" height="165"/>
+  <img src="./profile/top-langs.svg" height="165"/>
 </div>
 
 <br/>
