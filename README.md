@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sumantraj%20B&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Developer%20%7C%20Computer%20Vision%20%7C%20Intelligent%20Systems&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sumantraj%20B&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Student%20%7C%20Aspiring%20AI%20Engineer&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://github.com/SUMANTRAJ-B">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=5FE0DE&center=true&vCenter=true&width=560&lines=AI%2FML+Developer;Computer+Vision+%26+CNN+Explorer;Industrial+IoT+%2B+AI+Systems+Builder;Software+Engineer" alt="Typing SVG" />
@@ -19,13 +19,14 @@
 
 ## About Me
 
-I build systems that sit at the intersection of **software, machine learning, and hardware** — from predictive models trained on real sensor data to intelligent decision layers wrapped around a CNN. I'm most interested in **AI/ML, computer vision, and intelligent systems that connect to the physical world through IoT**.
+I build systems at the intersection of **software, machine learning, and hardware** — from predictive models trained on real sensor data to computer vision systems designed for practical applications. I'm most interested in **AI/ML, computer vision, and intelligent systems that connect to the physical world through IoT**.
 
-I'm currently strengthening my foundations in machine learning engineering and exploring how agent-style architectures can be applied to real decision-support problems.
+I'm currently strengthening my foundations in machine learning engineering and exploring how intelligent and agent-style architectures can be applied to real-world decision-support problems.
 
 - 🔭 Working on intelligent, sensor-driven and vision-driven systems
-- 🌱 Currently deepening my knowledge of ML model deployment, computer vision, and embedded/IoT integration
-- 🎯 Interested in: **AI/ML · Computer Vision · Industrial IoT · Intelligent Decision Systems**
+- 🌱 Currently deepening my knowledge of ML model development, testing, deployment, computer vision, and embedded/IoT integration
+- 🎯 Interested in: **AI/ML · Computer Vision · Industrial IoT · Intelligent Systems**
+- 💼 Targeting: **AI/ML Engineer · Software Engineer**
 - 📍 Based in Dharmapuri, India
 
 <br/>
@@ -112,7 +113,9 @@ Predictive safety platform for industrial environments — fuses machine and env
 - Real-time NORMAL / CAUTION / DANGER risk classification
 - Live dashboard with machine risk, environment risk, and factory health score
 
-Built as part of an Industrial IoT & AI internship/team project — *[ADD YOUR SPECIFIC CONTRIBUTION HERE, e.g. "ML risk model + MQTT pipeline"]*.
+Built as part of an Industrial IoT & AI internship/team project.
+
+**My Contribution:** Worked on the main AI/ML components and contributed to hardware integration, including sensor data processing, machine-learning-based risk prediction, and the intelligent safety pipeline.
 
 <a href="https://github.com/SUMANTRAJ-B/Industrial_safety_AI"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
@@ -130,32 +133,9 @@ Image-based vehicle classifier distinguishing Car / Bike / Bus / Truck / Ambulan
 
 Co-developed with a 4-person team as an academic project.
 
+**My Contribution:** Contributed to dataset collection and model testing, including evaluating the classification system across vehicle categories.
+
 <a href="https://github.com/SUMANTRAJ-B/Project-unknown"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🛒 AgentBuy — Multi-Agent Purchase Feasibility Advisor</h3>
-
-A fully client-side web app that evaluates the financial feasibility of a major purchase through a simulated multi-agent design pattern — a Scout, Advisor, Value, and Negotiator "agent" each contribute a piece of analysis that rolls up into a single feasibility score.
-
-**Built with:** Vanilla JavaScript (ES6+) · HTML5 · CSS3 (Grid, glassmorphism)
-
-- Agent-pattern architecture: cost research, financial-risk scoring, alternatives, and timing strategy as separate modules
-- Live "What-If" sandbox with real-time recalculation, no backend
-- 100% client-side — zero dependencies, zero setup
-
-Note: the "agents" are rule-based simulation logic, not LLM-driven autonomous agents.
-
-<a href="https://github.com/SUMANTRAJ-B/E-Commerce"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>More coming soon</h3>
-
-I'm intentionally keeping this space for the next project rather than padding it. See <em>Currently Exploring</em> below for what's next.
 
 </td>
 </tr>
@@ -194,11 +174,16 @@ I'm intentionally keeping this space for the next project rather than padding it
 
 ## Connect With Me
 
+## Connect With Me
+
 <div align="center">
 
-<a href="[ADD LINKEDIN URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="[ADD PORTFOLIO URL]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:[ADD EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sumantraj-b-452b82312/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:jhonpeterson522@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br/><br/>
 
